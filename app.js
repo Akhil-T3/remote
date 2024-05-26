@@ -7,7 +7,7 @@ const isMatch = require('date-fns/isMatch')
 const isValid = require('date-fns/isValid')
 
 const dbPath = path.join(__dirname, 'todoApplication.db')
-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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
+
 const app = express()
 app.use(express.json())
 
